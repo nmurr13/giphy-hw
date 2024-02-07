@@ -1,1 +1,1 @@
-![component hierarchy]https://i.ibb.co/GkYvBNX/app.png
+![component hierarchy](https://i.ibb.co/GkYvBNX/app.png)
